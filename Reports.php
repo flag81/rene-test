@@ -1,5 +1,5 @@
 <?php
-
+//flamur statovci
 include_once "session.php" ;
 
    
@@ -797,7 +797,7 @@ function check_special(data){
 			   <table border="0" width="770" cellspacing="0" cellpadding="0">
 					<tr>
 						<td height="24"  bgcolor=<?php if($archive_table == "old") { echo '#ff0000' ; }else{ echo '#CCCCCC';} ?> >
-						<p align="center"><b>Raporte ne baze të vendit te gjenerimit</b></p></td>
+						<p align="center"><b>Raporte ne baze tÃ« vendit te gjenerimit</b></p></td>
 					</tr>
 				</table>
 				
